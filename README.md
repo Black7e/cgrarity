@@ -168,3 +168,4 @@ Here you can deploy this rarity tool to Heroku in one click, just be sure you ha
 
 <p>Thanks to PunkScape Community for this initiative.</p>
 </div>
+# CGR-Rarity
